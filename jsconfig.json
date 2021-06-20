@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es6"
+    },
+    "files": [
+        "qr.js",
+        "./lib/instascan.min.js"
+    ]
+}

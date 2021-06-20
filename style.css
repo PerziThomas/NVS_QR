@@ -1,0 +1,34 @@
+#videoContainer {
+    width: 90vw;
+    margin-left: 2vw;
+}
+
+#result1 {
+    width: 40%;
+    background-color: lightgray;
+    height: fit-content;
+    margin-top: 1%;
+    float: left;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#result2 {
+    width: 40%;
+    background-color: lightgray;
+    height: fit-content;
+    margin-top: 1%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#sendData {
+    margin-top: 5vh;
+    margin-left: 30vw;
+}
+
+body {
+    overflow-y: scroll;
+}
